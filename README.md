@@ -2,7 +2,7 @@
 The application is similar to Apple Music. It consists of functionality for working with music files, finding and playing tracks from the iTunes API, saving your favorite tracks to the device's memory using UserDefaults, and much more. Great attention was paid to working with animations, a custom animated transition to the track playback screen was implemented, just like in a real Apple Music app.   
 
 ## Technology Stack 
-* UIKit + SwiftUI architecture
+* UIKit + SwiftUI
 * iTunes API as a backend server
 * Alamofire library to request data from the network
 * SDWebImage(UIKit) and URLImage(SwiftUI) libraries for loading images
